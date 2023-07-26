@@ -508,9 +508,6 @@ a {
 
   /* Contacts */
 
-  #contacts {
-  }
-
   .container-price {
     display: flex;
   }
@@ -527,8 +524,6 @@ a {
     margin-bottom: 40px;
   }
 
-  .contacts-wrapper p {
-  }
 
   .contacts-links {
     display: flex;
@@ -595,8 +590,6 @@ a {
     margin-bottom: 40px;
   }
 
-  .price-wrapper p {
-  }
 
   /* Footer */
 
